@@ -1,0 +1,14 @@
+{
+    "name": "Rentyv - Real Estate",
+    "namespace": "Theme\\Resido\\",
+    "description": "Real Estate theme",
+    "author": "The Rentyv Team",
+    "version": "1.11.0",
+    "required_plugins": [
+        "blog",
+        "contact",
+        "language",
+        "location",
+        "real-estate"
+    ]
+}
